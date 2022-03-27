@@ -1,0 +1,21 @@
+.heading{
+    font-size:26px;
+    width:100%;
+    margin:1px;
+}
+#song{
+    font-size:30px;
+    color:orange;
+}
+.note{
+    font-size:15px;
+    color:purple;
+}
+body{
+    background-size:cover;
+}
+
+canvas{
+box-shadow: 10px;
+margin:30px;
+}
